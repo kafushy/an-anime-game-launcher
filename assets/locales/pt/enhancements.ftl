@@ -14,18 +14,18 @@ system = Sistema
 borderless-window = Janela sem borda
 virtual-desktop = Área de trabalho virtual
 
-map-drive-c = Map drive C:
-map-drive-c-description = Automatically symlink drive_c folder from the wine prefix to the dosdevices
+map-drive-c = Crie disco C:
+map-drive-c-description = Automaticamente faça symlink do arquivo drive_c do prefixo wine para dosdevices
 
-map-game-folder = Map game folder
-map-game-folder-description = Automatically symlink game folder to the dosdevices
+map-game-folder = Crie arquivo de jogo
+map-game-folder-description = Automaticamente faça symlink do arquivo de jogo para dosdevices
 
 game = Jogo
 
 hud = HUD
 
 fsr = FSR
-fsr-description = Upscales game to your monitor size. To use select lower resolution in the game's settings and press Alt+Enter
+fsr-description = Aumenta resolução para o seu monitor. Para usar selecione uma resolução mais baixa na configuração do jogo e pressione Alt+Enter
 ultra-quality = Ultra qualidade
 quality = Qualidade
 balanced = Balanceado
